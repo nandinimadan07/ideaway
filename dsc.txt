@@ -1,0 +1,21 @@
+#Title of idea : 
+Recognizing the inner voice of youth.
+#Purpose:
+Students of different colleges will have a platform to share important information regarding new jobs coming up,updates regarding their fields,career,passion,problems,etc.
+#Introduction:
+Our project is solely based on connecting the college students through an app called TRY-NAA. This app will serve multiple benefits to the college students.
+We three as a team have decided that it will have the sections of library,medical,expertise,transport,posts,updates,my account.
+#Synopsis: 
+TRY-NAA, as we would open this app, firsty a home page will appear which at the top most left will have the option of my account where everyone is required to signup
+first, then to a little bottom of it we will have a wrting tab for the students so that they can share their problems faced by them in the college or they can share anything in
+which they are rather good at doing or any of their skills/passion. Then there would be these tabs:
+*Library:This app will also have a library which will have all the books suggested bu the students time to time,it will help to avoid last min rush during exams.
+*Medical:This will have all the medical implications faced by the students.
+*Expertise:This tab will have all the post regarding passion of students which will will help other students to innumerate some into them.
+*Transport:This tab will have transport facilities availible in different colleges.
+*Aboutus:This will have an about of the makers of app and a brief introduction of them.
+*Posts:In this tab all the post which the students will post on the home page will appear here, where.
+*Updates:In this all the important events coming up will be notified.
+#References: 
+*https://www.figma.com
+*figma resources
